@@ -11,6 +11,9 @@
 ## What packages do I have to install?
 
 This project uses 3 packages:
-[franc package](https://github.com/wooorm/franc).
-[Nodes Langs](https://github.com/adlawson/nodejs-langs).
-[Colors](https://www.npmjs.com/package/colors)
+
+-[franc package](https://github.com/wooorm/franc)
+
+-[Nodes Langs](https://github.com/adlawson/nodejs-langs)
+
+-[Colors](https://www.npmjs.com/package/colors)
