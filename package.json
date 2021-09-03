@@ -1,0 +1,15 @@
+{
+	"name": "Guess-The-Language-",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:Yuniac/Guess-The-Language-.git",
+	"author": "Yusuf Sabbag",
+	"license": "MIT",
+	"private": false,
+	"type": "module",
+	"dependencies": {
+		"colors": "^1.4.0",
+		"franc": "^6.0.0",
+		"langs": "^2.0.0"
+	}
+}
